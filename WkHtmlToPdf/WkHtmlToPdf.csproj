@@ -50,10 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages\wkhtmltopdf-x86-win32.0.12.3.6\tools\wkhtmltopdf\wkhtmltopdf.exe" />
-    <Content Include="wkhtmltopdf-license.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Exceptions\" />
